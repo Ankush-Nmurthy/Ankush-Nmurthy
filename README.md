@@ -1,5 +1,5 @@
 
-<img align = "right" alt = "coding" width = "400" src ="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align = "right" alt = "coding" width = "100%" height="300" src ="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="center">Hi 👋, I'm Ankush N</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47ogoucx5fzcigalb88f24iz41xhibhdv6iqmrdfrc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ankush_nmurthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ankush_nmurthy" height="30" width="40" /></a>
+<a href="[Ankush_N](https://codepen.io/Ankush_Nmurthy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ankush_nmurthy" height="30" width="40" /></a>
 <a href="https://twitter.com/@ankush51174356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankush51174356" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankush n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush n" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ankush n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ankush n" height="30" width="40" /></a>
