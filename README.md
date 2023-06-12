@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **Backend-Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ankush-Nmurthy/Ankush-Nmurthy.github.io](https://github.com/Ankush-Nmurthy/Ankush-Nmurthy.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Ankush-Nmurthy/Ankush-Nmurthy.github.io)
 
 - 💬 Ask me about **JAVA, JavaScript, Hibernate, JDBC, HTML, CSS etc.**
 
 - 📫 How to reach me **ankushn566@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ToGU7_MOnp2wAllnpMY_U2hdShlzglGn/view?usp=sharing](https://drive.google.com/file/d/1ToGU7_MOnp2wAllnpMY_U2hdShlzglGn/view?usp=sharing)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1ToGU7_MOnp2wAllnpMY_U2hdShlzglGn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
