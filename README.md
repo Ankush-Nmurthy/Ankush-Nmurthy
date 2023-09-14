@@ -24,42 +24,42 @@
 
 - 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1ToGU7_MOnp2wAllnpMY_U2hdShlzglGn/view?usp=sharing)
 <br>
-<h3 align="left">Where to find me</h3>
+<h3 align="left">🔬 Where to find me</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/20851973/ankush-n" target="blank"><img src="https://img.shields.io/badge/STACK%20OVERFLOW-C4242B.svg?&style=for-the-badge&logo=stackoverflow&logoColor=black"  
 alt="ankush n"/></a>
 <a href="https://github.com/Ankush-Nmurthy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ankush-n-a6184721b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🎮 Languages and Tools</h3>
 <p>
 <!--   <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&animation=spin&svgfill=15d8fe">  
 <!--  </a> -->
-  <a href="https://github.com/harish-sethuraman/readme-components">
+<!--   <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=15d8fe">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=FFA500">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javaScript&svgfill=FFFF00">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=lightblue">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=FAFAD2">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=postman&svgfill=red">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=git&svgfill=red">  
- </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!--  </a> -->
+<!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=github&svgfill=white">  
- </a>
+<!--  </a> -->
 </p> 
 <br>
 <h2>📊 Github Stats and Activity</h2>
