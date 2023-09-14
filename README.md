@@ -33,9 +33,9 @@ alt="ankush n"/></a>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <a href="https://github.com/harish-sethuraman/readme-components">
+<!--   <a href="https://github.com/harish-sethuraman/readme-components"> -->
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&animation=spin&svgfill=15d8fe">  
- </a>
+<!--  </a> -->
   <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=15d8fe">  
  </a>
