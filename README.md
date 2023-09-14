@@ -1,11 +1,10 @@
 
+
 <img align = "right" alt = "coding" width = "100%" height="300" src ="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="center">Hi 👋, I'm Ankush N</h1>
-
-
 <h3 align="center">A Full-Stack Web Developer</h3>
+<br>
 <img align = "right" alt = "coding" width = "400" src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47ogoucx5fzcigalb88f24iz41xhibhdv6iqmrdfrc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush-nmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-nmurthy" /> </p>
 
@@ -24,14 +23,14 @@
 - 📫 How to reach me **ankushn566@gmail.com**
 
 - 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1ToGU7_MOnp2wAllnpMY_U2hdShlzglGn/view?usp=sharing)
-
+<br>
 <h3 align="left">Where to find me</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/20851973/ankush-n" target="blank"><img src="https://img.shields.io/badge/STACK%20OVERFLOW-C4242B.svg?&style=for-the-badge&logo=stackoverflow&logoColor=black"  
 alt="ankush n"/></a>
 <a href="https://github.com/Ankush-Nmurthy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ankush-n-a6184721b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://github.com/harish-sethuraman/readme-components">
@@ -55,8 +54,16 @@ alt="ankush n"/></a>
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=postman&svgfill=red">  
  </a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=git&svgfill=red">  
+ </a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=github&svgfill=white">  
+ </a>
 </p> 
-  <h3>🔥 Streak Stats</h3>
+<br>
+<h2>📊 Github Stats and Activity</h2>
+<h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/ankush-nmurthy/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ankush-nmurthy's streak" src="https://streak-stats.demolab.com/?user=ankush-nmurthy&theme=monokai-metallian&hide_border=true"/>
@@ -69,10 +76,8 @@ alt="ankush n"/></a>
   </p>
  <p>
      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ankush N's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ankush-nmurthy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
  </p>
 
-<br/>
 <h3>🌟 Contribution Graph</h3>
 <p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ankush-nmurthy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
