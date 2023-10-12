@@ -82,5 +82,6 @@ alt="ankush n"/></a>
 <p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ankush-nmurthy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
-
+<br>
+<h1 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankush-Nmurthy" alt="1996shwetamg" /></a> </h1>
 
