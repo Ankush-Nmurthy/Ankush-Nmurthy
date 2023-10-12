@@ -1,10 +1,12 @@
 
 
-<img align = "right" alt = "coding" width = "100%" height="300" src ="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align = "right" alt = "coding" width = "100%" height="400" src ="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <h1 align="center">Hi 👋, I'm Ankush N</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 <br>
-<img align = "right" alt = "coding" width = "400" src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47ogoucx5fzcigalb88f24iz41xhibhdv6iqmrdfrc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<!--<img align = "right" alt = "coding" width = "400" src = "https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47ogoucx5fzcigalb88f24iz41xhibhdv6iqmrdfrc&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
+
+<img align = "right" alt = "coding" width = "400" src = "https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush-nmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-nmurthy" /> </p>
 
