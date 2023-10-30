@@ -60,7 +60,10 @@ alt="ankush n"/></a>
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=git&svgfill=red">  
 <!--  </a> -->
 <!-- <a href="https://github.com/harish-sethuraman/readme-components"> -->
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=github&svgfill=white">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=github&svgfill=white"> 
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=swagger&svgfill=white"> 
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=zoom&logo=notion&svgfill=white"> 
+
 <!--  </a> -->
 </p> 
 <br>
