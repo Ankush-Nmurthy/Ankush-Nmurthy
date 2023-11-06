@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ankush51174356" target="blank"><img src="https://img.shields.io/twitter/follow/@ankush51174356?logo=twitter&style=for-the-badge" alt="@ankush51174356" /></a> </p>
 
-- 🔭 I’m currently working on **Car Rental Service Backend-Project**
+- 🔭 I’m currently working on **Blog-Sculpture** [A Blogging APP](https://github.com/Ankush-Nmurthy/BloggingApplicationWeb)
 
 - 🌱 I’m currently learning **JAVA-BACKEND**
 
