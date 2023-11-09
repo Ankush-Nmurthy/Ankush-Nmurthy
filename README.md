@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Backend-Projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Ankush-Nmurthy/Ankush-Nmurthy.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ankush-nmurthy.github.io/)
 
 - 💬 Ask me about **JAVA, JavaScript, Hibernate, JDBC, HTML, CSS etc.**
 
