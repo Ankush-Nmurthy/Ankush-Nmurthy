@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/@ankush51174356" target="blank"><img src="https://img.shields.io/twitter/follow/@ankush51174356?logo=twitter&style=for-the-badge" alt="@ankush51174356" /></a> </p>
 
-- 🔭 I’m currently working on **Blog-Sculpture** [A Blogging APP](https://github.com/Ankush-Nmurthy/BloggingApplicationWeb)
+- 🔭 I’m currently working on **Blog-Sculpture** <a href="https://github.com/Ankush-Nmurthy/BloggingApplicationWeb" target="blank">[A Blogging APP]</a>
 
 - 🌱 I’m currently learning **JAVA-BACKEND**
 
 - 👯 I’m looking to collaborate on **Backend-Projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ankush-nmurthy.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://ankush-nmurthy.github.io/" target="blank"> [Portfolio]</a>
 
 - 💬 Ask me about **JAVA, JavaScript, Hibernate, JDBC, HTML, CSS etc.**
 
