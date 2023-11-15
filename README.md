@@ -70,23 +70,21 @@ alt="ankush n"/></a>
 <h2>📊 Github Stats and Activity</h2>
 <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://github.com/ankush-nmurthy/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ankush-nmurthy's streak" src="https://streak-stats.demolab.com/?user=ankush-nmurthy&theme=monokai-metallian&hide_border=true"/>
-    </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ankush-nmurthy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  </p>
- <p>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ankush N's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ankush-nmurthy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<p>
+   <img alt="'s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ankush-nmurthy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
+<p>
+     <img alt="Ankush N's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ankush-nmurthy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
  </p>
 
 <h3>🌟 Contribution Graph</h3>
 <p>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ankush-nmurthy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ankush-nmurthy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 <br>
-<h1 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankush-Nmurthy" alt="1996shwetamg" /></a> </h1>
+<h1 align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Ankush-Nmurthy" alt="1996shwetamg" /> </h1>
 
